@@ -1,3 +1,4 @@
+#Looking for solution
 Space::
     While GetKeyState("Space","P")
         Send {Space Down}
