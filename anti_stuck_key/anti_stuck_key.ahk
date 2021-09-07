@@ -1,3 +1,4 @@
+;don't work perfectly
 c::
     Send, {shift down}
     counter = 0
