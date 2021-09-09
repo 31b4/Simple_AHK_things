@@ -2,7 +2,7 @@
 v::Pause
 b::ExitApp
 c::
-    Loop{
+    Loop{;editable
         Send,{a down}
         sleep 300
         Send,{a up}
