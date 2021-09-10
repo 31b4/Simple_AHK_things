@@ -1,4 +1,4 @@
-;Start: c, pause: v exit: b
+;Start: c, pause: v exit: b (not toogle)
 v::Pause
 b::ExitApp
 c::
